@@ -1,7 +1,7 @@
-# Hi, I'm Miguel 👋🏻
+# Hi, I'm Miguel Payá Vañó 👋
 
-Full-stack developer with a strong specialization in modern Frontend engineering. I focus on building performant, scalable and visually polished web applications using Vue.js and TailwindCSS.  
-I consistently achieve **100/100 Lighthouse scores** across Performance, Accessibility, Best Practices and SEO thanks to careful optimization and attention to detail.
+Full-stack developer with a strong specialization in modern Frontend engineering. I focus on building performant, scalable, and visually polished web applications using Vue.js and TailwindCSS.  
+I consistently achieve **100/100 Lighthouse scores** across Performance, Accessibility, Best Practices, and SEO thanks to careful optimization and attention to detail.
 
 ---
 
@@ -18,7 +18,7 @@ I consistently achieve **100/100 Lighthouse scores** across Performance, Accessi
 - MongoDB  
 
 **Tools & Practices:**  
-- Git 
+- Git  
 - REST API development  
 - Web performance optimization  
 - Component-driven architecture  
@@ -27,8 +27,8 @@ I consistently achieve **100/100 Lighthouse scores** across Performance, Accessi
 
 ## 🚀 Featured Projects
 
-- **Biglo: Full-Stack Logistics Platform** — Vue + Node.js + MongoDB — Achieved 100/100 Lighthouse score — Secure encryption + JWT + CSRF & XSS protection
-- **Vue Portfolio Website** — Vue 3 + TailwindCSS 
+- **Biglo: Full-Stack Logistics Platform** — Vue + Node.js + MongoDB — Achieved 100/100 Lighthouse score — Secure encryption + JWT + CSRF & XSS protection  
+- **Vue Portfolio Website** — Vue 3 + TailwindCSS  
 
 (More coming to this GitHub soon!)
 
@@ -36,9 +36,9 @@ I consistently achieve **100/100 Lighthouse scores** across Performance, Accessi
 
 ## 📫 Connect With Me
 
-- **LinkedIn:** https://www.linkedin.com/in/miguel-payá-vañó/
+- **LinkedIn:** https://www.linkedin.com/in/miguel-payá-vañó/  
 - **GitHub:** https://github.com/miguelpv26  
-- **Email:** miguelpayav@gmail.com / miguelpayav@proton.me
+- **Email:** miguelpayav@gmail.com / miguelpayav@proton.me  
 
 ---
 
