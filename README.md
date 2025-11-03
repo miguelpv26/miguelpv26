@@ -1,4 +1,4 @@
-# Hi, I'm Miguel 👋
+# Hi, I'm Miguel 👋🏻
 
 Full-stack developer with a strong specialization in modern Frontend engineering. I focus on building performant, scalable and visually polished web applications using Vue.js and TailwindCSS.  
 I consistently achieve **100/100 Lighthouse scores** across Performance, Accessibility, Best Practices and SEO thanks to careful optimization and attention to detail.
